@@ -1,4 +1,4 @@
-This is our under graduate final year project.
+This is our under graduate final year project. (Work in progress/ not completed yet)
 __________________________________________________________________________________________________________________
 Topic: Video Surfing website (like youtube)
 Date: 15/06/2024.
