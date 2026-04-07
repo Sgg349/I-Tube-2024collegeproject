@@ -7,10 +7,16 @@ Institute : Siliguri College (Computer Applications and Computer Science dept.) 
 __________________________________________________________________________________________________________________
 Participants:--
 S Roy    (Myself Backend - Video Uploading page and uploading to the MongoDB, displaying after uploading)
+
 M Roy    (Frontend- HTML, CSS, JavaScript)
+
 M Ekka   (Backend - Account creation/ sign up, Login, using PHP)
+
 S Das    (Frontend- support team)
+
 V Mandal (Frontend- support team)
+
 P Saha   (Frontend- content writing, Presentation, ppt generations)
+
 S Saha   (Frontend- Content writing, support team)
 __________________________________________________________________________________________________________________
