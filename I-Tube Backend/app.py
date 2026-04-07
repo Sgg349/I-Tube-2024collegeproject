@@ -8,9 +8,9 @@ from bson.objectid import ObjectId
 
 app = Flask(__name__)
 
-client = MongoClient("mongodb+srv://itubedevs:enterpass@cluster0.cbncjeu.mongodb.net/", tlsCAFile=certifi.where())
-db = client["itubedb"]
-collection = db["uservid"]
+client = MongoClient("mongodb+srv://itubedevs:enterpass****@cluster0.cbncjeu.mongodb.net/", tlsCAFile=certifi.where())          #These secrets are changed later
+db = client["itubedb****"]
+collection = db["uservid****"]
 fs = GridFS(db)
 
 UPLOAD_FOLDER = 'temp'
